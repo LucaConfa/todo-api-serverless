@@ -1,0 +1,19 @@
+{
+  "name": "todo-api-serverless",
+  "version": "1.0.0",
+  "description": "First test TODO rest API",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.141.0",
+    "lodash": "^4.17.4",
+    "moment": "^2.19.1",
+    "uuid": "^3.1.0"
+  },
+  "devDependencies": {
+    "serverless-offline": "^3.16.0"
+  }
+}
